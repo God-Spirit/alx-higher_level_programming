@@ -1,1 +1,1 @@
-Python classes
+Everything is object
